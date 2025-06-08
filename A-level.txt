@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+<body>
+<h1> A-Level Physics </h1>
+<p> The resources contained here are intended to support students with their studies of A-level physics. </p>
+<a href="https://www.desmos.com/calculator/i2wofhq4ts" target="_blank" >Single and double slit diffraction patterns</a>
+
+</body>
+</html>
