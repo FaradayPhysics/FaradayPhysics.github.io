@@ -2052,7 +2052,7 @@ a {
 }
 
 a:hover {
-    color: #CC88FF;
+    color: #00DDFF;
 }
 
 strong,
@@ -2223,8 +2223,8 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-    box-shadow: inset 0 0 0 1px #CC88FF;
-    color: #CC88FF !important;
+    box-shadow: inset 0 0 0 1px #00DDFF;
+    color: #00DDFF !important;
 }
 
 input[type="submit"]:active,
@@ -2233,8 +2233,8 @@ input[type="button"]:active,
 button:active,
 .button:active {
     background-color: rgba(71, 211, 229, 0.2);
-    box-shadow: inset 0 0 0 1px #CC88FF;
-    color: #CC88FF !important;
+    box-shadow: inset 0 0 0 1px #00DDFF;
+    color: #00DDFF !important;
 }
 
 input[type="submit"].special,
@@ -2252,7 +2252,7 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-    background-color: #CC88FF;
+    background-color: #00DDFF;
 }
 
 input[type="submit"].special:active,
@@ -2545,8 +2545,8 @@ input[type="search"]:focus,
 input[type="url"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #CC88FF;
-    box-shadow: 0 0 0 1px #CC88FF;
+    border-color: #00DDFF;
+    box-shadow: 0 0 0 1px #00DDFF;
 }
 
 .select-wrapper:before {
