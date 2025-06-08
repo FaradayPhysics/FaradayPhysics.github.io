@@ -1,4 +1,5 @@
 @import url(font-awesome.min.css);
+@import url(https://cdn.jsdelivr.net/gh/bitmaks/cm-web-fonts@latest/fonts.css);
 
 /*
 	Story by Pixelarity
@@ -1868,7 +1869,7 @@ body,
 input,
 select,
 textarea {
-    font-family: "Cambria Math", Cambria, serif;
+    font-family: "Computer Modern Serif", Cambria, serif;
     font-size: 1rem;
     font-weight: 300;
     line-height: 1.65;
